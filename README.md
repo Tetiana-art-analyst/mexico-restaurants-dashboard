@@ -1,4 +1,5 @@
 Mexico Restaurants Dashboard
+
 📊 Project Overview
 Interactive Power BI dashboard providing comprehensive analysis of restaurant performance across 4 Mexican cities. Combines geographic analysis, customer demographics, and business intelligence to deliver actionable insights for market expansion and investment decisions.
 🎯 Business Objectives
