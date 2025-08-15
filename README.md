@@ -2,6 +2,7 @@ Mexico Restaurants Dashboard
 
 📊 Project Overview
 Interactive Power BI dashboard providing comprehensive analysis of restaurant performance across 4 Mexican cities. Combines geographic analysis, customer demographics, and business intelligence to deliver actionable insights for market expansion and investment decisions.
+
 🎯 Business Objectives
 
 Market Analysis: Compare restaurant performance across different Mexican cities
@@ -18,6 +19,7 @@ Cuernavaca - Quality Leader (21 restaurants, highest ratings)
 Jiutepec - Expansion Opportunity (2 restaurants, untapped potential)
 
 📈 Key Business Insights
+
 🏆 Market Leaders
 
 Largest Market: San Luis Potosi dominates with 84 restaurants and highest visitor traffic
@@ -37,6 +39,7 @@ Service Features: Wine & Beer service drives premium positioning
 Price Points: Balanced mix of Low, Medium, and High price segments
 
 🎨 Dashboard Features
+
 📊 Interactive Components
 
 City Navigation: Seamless switching between market analyses
@@ -54,7 +57,9 @@ Consumer demographic breakdown
 Cuisine type distribution
 
 💡 Strategic Recommendations
+
 🎯 Market-Specific Strategies
+
 San Luis Potosi (Market Leader)
 
 Maintain market dominance through service excellence
@@ -84,6 +89,7 @@ Long-term: Premium positioning in Cuernavaca
 Ongoing: Market leadership maintenance in San Luis Potosi
 
 🛠️ Technical Implementation
+
 Power BI Features Used
 
 Multi-page Navigation: Seamless city-to-city transitions
@@ -100,8 +106,9 @@ Geographic Analysis: Location-based performance correlation
 Business Intelligence: Automated insight generation
 
 📸 Dashboard Screenshots
+
 General Overview
-Show Image
+
 Complete market overview with city comparisons and geographic distribution
 City Analysis - San Luis Potosi
 Show Image
@@ -115,6 +122,7 @@ Quality leadership analysis and premium positioning strategy
 City Analysis - Jiutepec
 Show Image
 Expansion opportunity assessment with investment recommendations
+
 🎓 Skills Demonstrated
 
 Business Intelligence: Strategic analysis and recommendation development
@@ -131,8 +139,10 @@ Investment Guidance: Data-driven recommendations for resource allocation
 Strategic Planning: Comprehensive market analysis for decision-making
 
 📊 Data Notes
+
 This dashboard uses educational/synthetic data to demonstrate Power BI capabilities and business intelligence techniques. Focus is on analytical methodology, visualization design, and strategic insight generation rather than specific market accuracy.
 📧 Contact
+
 Tetiana Kalinichenko
 Data Analyst | Power BI Specialist
 📧 tatyanakalinichenko5@gmail.com
