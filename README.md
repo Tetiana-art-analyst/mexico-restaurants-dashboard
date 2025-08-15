@@ -145,6 +145,9 @@ This dashboard uses educational/synthetic data to demonstrate Power BI capabilit
 
 Tetiana Kalinichenko
 Data Analyst | Power BI Specialist
+
 📧 tatyanakalinichenko5@gmail.com
+
 🔗 LinkedIn  linkedin.com/in/tatiana-kalinichenko-9ba295300
+
 💼 GitHub Portfolio
